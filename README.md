@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avinash
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning MERN Stack
 
 <!---
 avinashreddykethireddy/avinashreddykethireddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
