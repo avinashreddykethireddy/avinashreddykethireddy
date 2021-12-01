@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=avinashreddykethireddy)
 - 👋 Hi, I’m Avinash
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning MERN Stack
 
 <!---
 ![AK's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinashreddykethireddy)]
